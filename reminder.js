@@ -1,1 +1,1 @@
-console.log("this is reminder feature");
+console.log("this is reminder feature for notification");
